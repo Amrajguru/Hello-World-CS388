@@ -1,0 +1,7 @@
+codepath.demos.helloworlddemo.test.app-androidTest-0 C:\Users\Amaan\Desktop\Classwork\CS 388\android_hello_world\app\build\generated\res\resValues\androidTest\debug
+codepath.demos.helloworlddemo.test.app-androidTest-1 C:\Users\Amaan\Desktop\Classwork\CS 388\android_hello_world\app\build\generated\res\rs\androidTest\debug
+codepath.demos.helloworlddemo.test.app-mergeDebugAndroidTestResources-2 C:\Users\Amaan\Desktop\Classwork\CS 388\android_hello_world\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+codepath.demos.helloworlddemo.test.app-mergeDebugAndroidTestResources-3 C:\Users\Amaan\Desktop\Classwork\CS 388\android_hello_world\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+codepath.demos.helloworlddemo.test.app-merged_res-4 C:\Users\Amaan\Desktop\Classwork\CS 388\android_hello_world\app\build\intermediates\merged_res\debugAndroidTest
+codepath.demos.helloworlddemo.test.app-androidTest-5 C:\Users\Amaan\Desktop\Classwork\CS 388\android_hello_world\app\src\androidTest\res
+codepath.demos.helloworlddemo.test.app-androidTestDebug-6 C:\Users\Amaan\Desktop\Classwork\CS 388\android_hello_world\app\src\androidTestDebug\res
